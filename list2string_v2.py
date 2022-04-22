@@ -1,5 +1,5 @@
 #refactor goal: remove special case if-else codes.
-#
+#add the "and" in the loop funtion instead of outside of the loop function.
 
 
 #function that returns a list value into a string separated by comma & 'and' list[-1]
